@@ -24,7 +24,7 @@ const HeroBanner=() =>{
             sx={{fontSize: {lg: '44px', xs: '40px'}}}
             mb="23px" mt="30px"
             >
-                Sweat, Smile <br/> and Repeat
+                You know what time it is?<br/> It's workout time!
             </Typography>
 
             <Typography
