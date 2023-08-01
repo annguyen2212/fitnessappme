@@ -22,10 +22,10 @@ const SearchExercises=({setExercises, bodyPart, setBodyPart}) =>{
             const exercisesData = await fetchData('https://exercisedb.p.rapidapi.com/exercises', exerciseOptions);
 
             const searchedExercises = exercisesData.filter(
-                (exercise) => exercise.name.toLowerCase().include(search) 
-                || exercise.target.toLowerCase().include(search) 
-                || exercise.equipment.toLowerCase().include(search) 
-                || exercise.bodyPart.toLowerCase().include(search) 
+                (item) => item.name.toLowerCase().includes(search) 
+                || item.target.toLowerCase().includes(search) 
+                || item.equipment.toLowerCase().includes(search) 
+                || item.bodyPart.toLowerCase().includes(search),
             );
             setSearch('');
             setExercises(searchedExercises);
