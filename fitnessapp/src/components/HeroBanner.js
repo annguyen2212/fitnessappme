@@ -16,7 +16,7 @@ const HeroBanner=() =>{
             fontWeight="600"
             fontSize="26px"
             >
-                Fitness Club
+                Get Active
             </Typography>
 
             <Typography 
@@ -24,7 +24,7 @@ const HeroBanner=() =>{
             sx={{fontSize: {lg: '44px', xs: '40px'}}}
             mb="23px" mt="30px"
             >
-                You know what time it is?<br/> It's workout time!
+                You know what time it is<br/> It's workout time!
             </Typography>
 
             <Typography
