@@ -38,11 +38,11 @@ const Boxings=() =>{
                 <br/>
                 <br/>
                 Soccer: <br/>
-                <a href="https://www.youtube.com/watch?v=8SNyYw-OxFQ&list=PL2aENynvccQX4uVG8hqVBfpYzxpKd5F8a&index=1"  target="_blank"> - Soccer lessons with coach Nguyen</a> <br/>
+                <a href="https://www.youtube.com/watch?v=zPRKysPcaCw&list=PL2aENynvccQXGEvX4B77zIR6tBK2Xe5FQ"  target="_blank"> - Soccer lessons with coach Nguyen</a> <br/>
                 <br/>
                 <br/>
                 Basketball: <br/>
-                <a href="https://www.youtube.com/watch?v=8SNyYw-OxFQ&list=PL2aENynvccQX4uVG8hqVBfpYzxpKd5F8a&index=1"  target="_blank"> - Basketball lessons with coach Chang</a> <br/>
+                <a href="https://www.youtube.com/watch?v=MOCvGyxFV7U&list=PL2aENynvccQWtFx2xUFUfgTQI3YfXOmHX"  target="_blank"> - Basketball lessons with coach Chang</a> <br/>
             </Typography>
 
           
